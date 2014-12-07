@@ -1,0 +1,19 @@
+{
+  "name": "koa-mongo-crud",
+  "version": "1.0.0",
+  "description": "koa-mongo-crud ==============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgtLucas/koa-mongo-crud.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/koa-mongo-crud/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/koa-mongo-crud"
+}
